@@ -58,6 +58,12 @@ Start the server
 - [@Khateebxtreme](https://github.com/Khateebxtreme)
 
 
+## Notes
+
+- **Hosting Services :** netlify
+- **Youtube-V3 API DRL:** June 1 2023
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
