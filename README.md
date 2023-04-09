@@ -94,6 +94,7 @@ Start the server
 
 - **Hosting Services :**  netlify
 - **Youtube-V3 API DRL :**  500
+- **Max Results :** 50 videos per API call ( Hard Limit )
 
 
 ## License
