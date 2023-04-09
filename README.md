@@ -51,7 +51,7 @@
 
 ![chrome_1gYh7oC9er](https://user-images.githubusercontent.com/39136324/230771990-59935787-c7fd-4633-9714-8d8f4b42bd70.png)
 
-## Video Demo
+## Video_Demo
 
 **Video walkthrough on how to navigate and explore various features of this web app**
 
