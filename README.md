@@ -60,8 +60,8 @@ Start the server
 
 ## Notes
 
-- **Hosting Services :** netlify
-- **Youtube-V3 API DRL:** June 1 2023
+- **Hosting Services :**  netlify
+- **Youtube-V3 API DRL:**  June 1 2023
 
 
 ## License
