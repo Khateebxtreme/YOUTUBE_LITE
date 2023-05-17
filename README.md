@@ -15,7 +15,7 @@
 - User friendly interface for better user experience.
 - Accessible through all kinds of devices (Tablets , desktop , phones etc).
 - Enables users to search for specefic videos based on keywords, tags etc.
-- Allows users to watch videos including features like play , pause and seek.
+- Allows users to watch videos including features like play, pause and seek.
 - Video playback page displays the video details including a set of related videos to watch
 - Channel pages come with channel details and also a set of videos uploaded by them for the users to watch.
 - Homepage sorts the videos in different categories including recommended videos , comedy , tutorials etc.
