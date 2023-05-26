@@ -85,7 +85,7 @@ Start the server
   npm run dev
 ```
 
-Create a config.js file in utils folder to hold your Rapid API key which will be used to fetch the videos using Youtube-V3 API. ( Credits to @TeleViaBox for pointing this out to me )
+Create a **config.js** file in utils folder to hold your Rapid API key which will be used to fetch the videos using Youtube-V3 API. ( Credits to **@TeleViaBox** for pointing this out to me )
 
 ## Authors
 
